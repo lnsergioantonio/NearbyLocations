@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sunflower">#FFB900</color>
+    <color name="orange">#FF8C00</color>
+    <color name="carrot">#F7630C</color>
+    <color name="turquoise">#1ABC9C</color>
+    <color name="teal_700">#0F766E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="silver">#BDC3C7</color>
+    <color name="concrete">#95A5A6</color>
+    <color name="clouds">#ECF0F1</color>
+</resources>

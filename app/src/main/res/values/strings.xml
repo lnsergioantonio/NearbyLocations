@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NearbyLocations</string>
+    <string name="title_location_details">Location details</string>
+    <string name="label_free">Gratis</string>
+    <string name="label_inexpensive">Barato</string>
+    <string name="label_moderate">Moderado</string>
+    <string name="label_expensive">Caro</string>
+    <string name="label_very_expensive">Muy caro</string>
+    <string name="none">N/A</string>
+</resources>
