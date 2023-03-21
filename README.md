@@ -25,6 +25,6 @@ Has an offline mode in which it saves the last data.
 - Coil
 
 ## Screens
-<img src="https://github.com/lnsergioantonio/MapsLocation/blob/main/screens/home.jpg" width="300">
+<img src="https://github.com/lnsergioantonio/NearbyLocations/blob/main/screens/home.jpg" width="300">
 
-<img src="https://github.com/lnsergioantonio/MapsLocation/blob/main/screens/place.jpg" width="300">
+<img src="https://github.com/lnsergioantonio/NearbyLocations/blob/main/screens/place.jpg" width="300">
